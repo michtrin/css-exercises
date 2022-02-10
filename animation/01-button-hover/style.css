@@ -23,3 +23,7 @@ button {
 button {
   transition: transform .5s ease-in-out;
 }
+
+button:hover {
+  transform: scale(1.5);
+}
